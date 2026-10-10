@@ -1,2 +1,2 @@
 # Clase-05-INT
-Conectando con perplexyti
+Conectando con perplexity
